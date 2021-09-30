@@ -1,4 +1,4 @@
-# Friday Night Funkin VS NICK
+# Friday Night Funkin ducko
 
 This is the repository for Friday Night Funkin vs nick ,a mod for the game made by these peoples:
 - [ninjamuffin99 (me!)](https://twitter.com/ninja_muffin99) - Programmer
